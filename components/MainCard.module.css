@@ -1,0 +1,18 @@
+.wrapper {
+  text-align: center;
+  padding: 10px;
+}
+
+.location {
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.temperature {
+  font-size: 84px;
+}
